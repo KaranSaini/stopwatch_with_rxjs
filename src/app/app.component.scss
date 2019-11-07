@@ -1,0 +1,23 @@
+h1 {
+  justify-content: center;
+}
+
+#count {
+  font-size: 80px;
+}
+
+#buttonHolder {
+  border-color: red;
+  display: flex;
+  flex-flow: row nowrap;;
+  justify-content: center, space-between;
+}
+
+#start {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#stop {
+  margin-right: 10px;
+}
